@@ -78,7 +78,7 @@ philosophy: "Build it hands-on, document it properly, then teach it back."
 
 ## 🎓 Certifications
 
-<div align="center">
+<!-- <div align="center">
 <a href="https://media.licdn.com/dms/image/v2/D562DAQFEYJ8lgdg8QA/profile-treasury-document-cover-images_1920/B56Z190FfvHEBM-/0/1775932305030?e=1788865200&v=beta&t=tj1ydMgUW4DDytddD7aP6NuimkeSyjqCdDS9yaIGCFM">
 <img src="./assets/cert-mulesoft.svg"/>
 </a>
@@ -95,7 +95,35 @@ Click on icon and Check
 </div>
 <div>[ Mulesoft ] : MCD Level 1 Credential ID : 7629432</div>
 
-<br/>
+<br/> -->
+<div align="center">
+
+  <!-- Certificate Images Linked to LinkedIn Treasury Docs -->
+  <a href="https://media.licdn.com/dms/image/v2/D562DAQHxbkptivAu9Q/profile-treasury-image-shrink_1920_1920/B56Z6pHa9.JMAc-/0/1780953755769?e=1788865200&v=beta&t=L-sZEtWmUDvFODpv1alMpUukgJ9YVUtI3iHC6mKJPpk" target="_blank">
+    <img src="./assets/cert-aws.svg" alt="AWS Certificate" width="180" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://media.licdn.com/dms/image/v2/D562DAQFEYJ8lgdg8QA/profile-treasury-document-cover-images_1920/B56Z190FfvHEBM-/0/1775932305030?e=1788865200&v=beta&t=tj1ydMgUW4DDytddD7aP6NuimkeSyjqCdDS9yaIGCFM" target="_blank">
+    <img src="./assets/cert-mulesoft.svg" alt="MuleSoft Certificate" width="180" />
+  </a>
+  </br>
+  </br>
+  <p><strong>👇 Click below for Credential IDs & Official Verification Links</strong></p>
+<details open>
+<summary><strong>📜 Certificate Verification & Credentials</strong></summary>
+
+<br />
+
+| Certification | Credential ID | Official Verification |
+| :--- | :--- | :--- |
+| **☁️ AWS Cloud Practitioner** | `2a215652a91649198e900a0c49a5b867` | [<img src="https://img.shields.io/badge/Verify%20Credential-✓-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="Verify AWS" />](https://cp.certmetrics.com/amazon/en/public/verify/credential/2a215652a91649198e900a0c49a5b867) |
+| **🔌 MuleSoft MCD Level 1** | `7629432` | [<img src="https://img.shields.io/badge/Verify%20Credential-✓-00A1E0?style=flat-square&logo=mulesoft&logoColor=white" alt="Verify MuleSoft" />](https://training.mulesoft.com/user/verify-cert/7629432) |
+
+</details>
+
+</div>
+
+</div>
 
 ## 📫 Connect With Me
 
