@@ -117,7 +117,7 @@ Click on icon and Check
 | Certification | Credential ID | Official Verification |
 | :--- | :--- | :--- |
 | **☁️ AWS Cloud Practitioner** | `2a215652a91649198e900a0c49a5b867` | [<img src="https://img.shields.io/badge/Verify%20Credential-✓-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="Verify AWS" />](https://cp.certmetrics.com/amazon/en/public/verify/credential/2a215652a91649198e900a0c49a5b867) |
-| **🔌 MuleSoft MCD Level 1** | `7629432` | [<img src="https://img.shields.io/badge/Verify%20Credential-✓-00A1E0?style=flat-square&logo=mulesoft&logoColor=white" alt="Verify MuleSoft" />](https://training.mulesoft.com/user/verify-cert/7629432) |
+| **🔌 MuleSoft MCD Level 1** | `7629432` | [<img src="https://img.shields.io/badge/Verify%20Credential-✓-00A1E0?style=flat-square&logo=mulesoft&logoColor=white" alt="Verify MuleSoft" />](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=7/sKx1q6D2IpfzkKD+I6DqA3qfXfAZUrWcgQJiDxEhTX7C0/AazB64ORCNJZMALO) |
 
 </details>
 
