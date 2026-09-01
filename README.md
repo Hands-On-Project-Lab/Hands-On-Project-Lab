@@ -43,11 +43,17 @@ philosophy: "Build it hands-on, document it properly, then teach it back."
 
 <div align="center">
 
-<img src="./assets/badge-python.svg"/> <img src="./assets/badge-java.svg"/> <img src="./assets/badge-javascript.svg"/> <img src="./assets/badge-typescript.svg"/>
-<img src="./assets/badge-react.svg"/> <img src="./assets/badge-nodejs.svg"/> <img src="./assets/badge-express.svg"/> <img src="./assets/badge-springboot.svg"/>
-<img src="./assets/badge-flask.svg"/> <img src="./assets/badge-html5.svg"/> <img src="./assets/badge-css3.svg"/> <img src="./assets/badge-mongodb.svg"/>
-<img src="./assets/badge-mysql.svg"/> <img src="./assets/badge-docker.svg"/> <img src="./assets/badge-kubernetes.svg"/> <img src="./assets/badge-jenkins.svg"/>
-<img src="./assets/badge-aws.svg"/> <img src="./assets/badge-mulesoft.svg"/> <img src="./assets/badge-git.svg"/> <img src="./assets/badge-github-actions.svg"/>
+<!-- <img src="./assets/badge-python.svg"/>  -->
+<img src="./assets/badge-java.svg"/> <img src="./assets/badge-javascript.svg"/> 
+<!-- <img src="./assets/badge-typescript.svg"/> -->
+<img src="./assets/badge-react.svg"/> <img src="./assets/badge-nodejs.svg"/> <img src="./assets/badge-express.svg"/> <img src="./assets/badge-mongodb.svg"/><img src="./assets/badge-mysql.svg"/> <img src="./assets/badge-mulesoft.svg"/>
+<!-- <img src="./assets/badge-springboot.svg"/> -->
+<!-- <img src="./assets/badge-flask.svg"/>  -->
+<!-- <img src="./assets/badge-html5.svg"/> <img src="./assets/badge-css3.svg"/>  -->
+
+<img src="./assets/badge-docker.svg"/> <img src="./assets/badge-kubernetes.svg"/> <img src="./assets/badge-jenkins.svg"/>
+<img src="./assets/badge-aws.svg"/> <img src="./assets/badge-git.svg"/> 
+<!-- <img src="./assets/badge-github-actions.svg"/> -->
 <img src="./assets/badge-linux.svg"/> <img src="./assets/badge-bash.svg"/>
 
 </div>
