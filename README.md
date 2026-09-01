@@ -60,15 +60,15 @@ philosophy: "Build it hands-on, document it properly, then teach it back."
 
 <br/>
 
-## 📊 GitHub Stats
+<!-- GitHub Stats -->
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hands-On-Project-Lab&theme=tokyonight&hide_border=true" />
 
 </div>
 
-<br/>
+<br/> -->
 
 ## 🐍 Contribution Snake
 
