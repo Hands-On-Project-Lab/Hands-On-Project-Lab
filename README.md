@@ -16,7 +16,13 @@
 
 <br/>
 
-## 👋 About Me
+<details style="border: 1px solid #30363d; border-radius: 8px; padding: 12px 16px; background-color: #0d1117; color: #c9d1d9;">
+  <summary style="cursor: pointer; font-size: 16px; font-weight: bold; color: #58a6ff; list-style: none;">
+    👉 <span style="border-bottom: 2px dashed #58a6ff; padding-bottom: 2px;">Want To Know More About Me</span>
+  </summary>
+</br>
+<p>
+👋 About Me
 
 ```yaml
 name: "Kumar Aryan"
@@ -108,3 +114,4 @@ Click on icon and Check
 </div>
 
 <img src="./assets/banner-footer.svg" width="100%" alt="footer banner"/>
+</p>
