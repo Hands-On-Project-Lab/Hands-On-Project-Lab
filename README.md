@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner-header.svg" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1e2327,100:2b6cb0&amp;height=200&amp;section=header&amp;text=Kumar%20Aryan&amp;fontSize=55&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Fullstack%20%7C%20DevOps%20Engineer%20in%20the%20making%20%7C%20Cloud%20and%20Integration&amp;descAlignY=55&amp;descSize=18" alt="Header" />
 
 <a href="https://github.com/Hands-On-Project-Lab">
   <img src="./assets/typing-intro.svg" alt="Typing SVG" />
@@ -48,80 +48,11 @@ philosophy: "Build it hands-on, document it properly, then teach it back."
 
 <br/>
 
-## 📌 Featured Repositories
-
-### Cloud & DevOps — [`Hands-On-Project-Lab`](https://github.com/Hands-On-Project-Lab)
-
-<div align="center">
-
-<a href="https://github.com/Hands-On-Project-Lab/DevSecOps-CI-CD-Pipeline-Prod-Project">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Hands-On-Project-Lab&repo=DevSecOps-CI-CD-Pipeline-Prod-Project&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/Hands-On-Project-Lab/AWS-Hands-On-Topics">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Hands-On-Project-Lab&repo=AWS-Hands-On-Topics&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Hands-On-Project-Lab/Amazon-Bedrock-Hands-On">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Hands-On-Project-Lab&repo=Amazon-Bedrock-Hands-On&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/Hands-On-Project-Lab/Data-Structures-And-Algorithm-Hands-On">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Hands-On-Project-Lab&repo=Data-Structures-And-Algorithm-Hands-On&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Hands-On-Project-Lab/Networking-For-DevOps">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Hands-On-Project-Lab&repo=Networking-For-DevOps&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
-### Full-Stack & Language References — [`Kumar-Aryan-NIET`](https://github.com/Kumar-Aryan-NIET)
-
-<div align="center">
-
-<a href="https://github.com/Kumar-Aryan-NIET/MERN-Stack-Reference">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Kumar-Aryan-NIET&repo=MERN-Stack-Reference&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/Kumar-Aryan-NIET/SpringBoot_Reference">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Kumar-Aryan-NIET&repo=SpringBoot_Reference&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Kumar-Aryan-NIET/Flask_Reference">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Kumar-Aryan-NIET&repo=Flask_Reference&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/Kumar-Aryan-NIET/TypeScript-Reference">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Kumar-Aryan-NIET&repo=TypeScript-Reference&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Kumar-Aryan-NIET/Git-and-GitHub-Reference">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Kumar-Aryan-NIET&repo=Git-and-GitHub-Reference&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/Kumar-Aryan-NIET/AI-News-Pulse">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Kumar-Aryan-NIET&repo=AI-News-Pulse&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
-<br/>
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<sub><b>Hands-On-Project-Lab</b></sub><br/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Hands-On-Project-Lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hands-On-Project-Lab&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<sub><b>Kumar-Aryan-NIET</b></sub><br/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Kumar-Aryan-NIET&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumar-Aryan-NIET&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hands-On-Project-Lab&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Hands-On-Project-Lab&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
 
 </div>
 
@@ -142,11 +73,21 @@ philosophy: "Build it hands-on, document it properly, then teach it back."
 ## 🎓 Certifications
 
 <div align="center">
-
+<a href="https://media.licdn.com/dms/image/v2/D562DAQFEYJ8lgdg8QA/profile-treasury-document-cover-images_1920/B56Z190FfvHEBM-/0/1775932305030?e=1788865200&v=beta&t=tj1ydMgUW4DDytddD7aP6NuimkeSyjqCdDS9yaIGCFM">
 <img src="./assets/cert-mulesoft.svg"/>
+</a>
+<a href="https://media.licdn.com/dms/image/v2/D562DAQHxbkptivAu9Q/profile-treasury-image-shrink_1920_1920/B56Z6pHa9.JMAc-/0/1780953755769?e=1788865200&v=beta&t=L-sZEtWmUDvFODpv1alMpUukgJ9YVUtI3iHC6mKJPpk">
 <img src="./assets/cert-aws.svg"/>
+</a>
 
 </div>
+</br>
+Click on icon and Check 
+</br>
+<div>
+[ AWS ]     : Cloud Practitioner credential id : 2a215652a91649198e900a0c49a5b867
+</div>
+<div>[ Mulesoft ] : MCD Level 1 Credential ID : 7629432</div>
 
 <br/>
 
@@ -158,12 +99,8 @@ philosophy: "Build it hands-on, document it properly, then teach it back."
   <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/Hands-On-Project-Lab">
-  <img src="https://img.shields.io/badge/Cloud_%26_DevOps_Repos-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Repos-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://github.com/Kumar-Aryan-NIET">
-  <img src="https://img.shields.io/badge/Full--Stack_Repos-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Hands-On-Project-Lab&label=Profile%20Views&color=2b6cb0&style=flat-square" alt="profile views"/>
